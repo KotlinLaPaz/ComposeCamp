@@ -1,4 +1,4 @@
-# Compose Camp Website
+# Compose Camp 2022 Website
 
 Website del evento Compose Camp
 
